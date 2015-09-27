@@ -1,0 +1,6 @@
+D:\SoftUni\Algorithms\Homework\Alghoritms\1. Recursion\T02_NestedLoopsRecursion\bin\Debug\T02_NestedLoopsRecursion.exe.config
+D:\SoftUni\Algorithms\Homework\Alghoritms\1. Recursion\T02_NestedLoopsRecursion\bin\Debug\T02_NestedLoopsRecursion.exe
+D:\SoftUni\Algorithms\Homework\Alghoritms\1. Recursion\T02_NestedLoopsRecursion\bin\Debug\T02_NestedLoopsRecursion.pdb
+D:\SoftUni\Algorithms\Homework\Alghoritms\1. Recursion\T02_NestedLoopsRecursion\obj\Debug\T02_NestedLoopsRecursion.csprojResolveAssemblyReference.cache
+D:\SoftUni\Algorithms\Homework\Alghoritms\1. Recursion\T02_NestedLoopsRecursion\obj\Debug\T02_NestedLoopsRecursion.exe
+D:\SoftUni\Algorithms\Homework\Alghoritms\1. Recursion\T02_NestedLoopsRecursion\obj\Debug\T02_NestedLoopsRecursion.pdb
