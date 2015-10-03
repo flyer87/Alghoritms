@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace T_01.Recursion
+namespace T01_TowerOfHanoi
 {
     class Program
     {
@@ -15,7 +15,7 @@ namespace T_01.Recursion
 
         static void Main(string[] args)
         {
-            int numberOfDiscs = 10;
+            int numberOfDiscs = 2;
             source = new Stack<int>(Enumerable.Range(1, numberOfDiscs).Reverse());
             PrintRods();
             MoveDiscs(numberOfDiscs, source, destination, spare);
@@ -32,15 +32,16 @@ namespace T_01.Recursion
             }
             else
             {
-                //todo
+                //step 1.
                 MoveDiscs(bottomDisc - 1, source, spare, destination);
 
                 stepsTaken++;                
+                //step 2.
                 destination.Push(source.Pop());
                 Console.WriteLine("Step {0}: moved disk {1}", stepsTaken, bottomDisc);
                 PrintRods();
 
-                //todo
+                //step 3.
                 MoveDiscs(bottomDisc - 1, spare, destination, source);
             }
         }

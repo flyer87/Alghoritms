@@ -1,0 +1,11 @@
+D:\SoftUni\Algorithms\Homework\Alghoritms\1. Recursion\1. Recursion\bin\Debug\_1.Recursion.exe.config
+D:\SoftUni\Algorithms\Homework\Alghoritms\1. Recursion\1. Recursion\bin\Debug\_1.Recursion.exe
+D:\SoftUni\Algorithms\Homework\Alghoritms\1. Recursion\1. Recursion\bin\Debug\_1.Recursion.pdb
+D:\SoftUni\Algorithms\Homework\Alghoritms\1. Recursion\1. Recursion\obj\Debug\_1.Recursion.exe
+D:\SoftUni\Algorithms\Homework\Alghoritms\1. Recursion\1. Recursion\obj\Debug\_1.Recursion.pdb
+D:\SoftUni\Algorithms\Homework\Alghoritms\1. Recursion\1. Recursion\bin\Debug\T01_TowerOfHanoi.exe.config
+D:\SoftUni\Algorithms\Homework\Alghoritms\1. Recursion\T01_TowerOfHanoi\bin\Debug\T01_TowerOfHanoi.exe.config
+D:\SoftUni\Algorithms\Homework\Alghoritms\1. Recursion\T01_TowerOfHanoi\bin\Debug\T01_TowerOfHanoi.exe
+D:\SoftUni\Algorithms\Homework\Alghoritms\1. Recursion\T01_TowerOfHanoi\bin\Debug\T01_TowerOfHanoi.pdb
+D:\SoftUni\Algorithms\Homework\Alghoritms\1. Recursion\T01_TowerOfHanoi\obj\Debug\T01_TowerOfHanoi.exe
+D:\SoftUni\Algorithms\Homework\Alghoritms\1. Recursion\T01_TowerOfHanoi\obj\Debug\T01_TowerOfHanoi.pdb

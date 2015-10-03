@@ -1,0 +1,5 @@
+D:\SoftUni\Algorithms\Homework\Alghoritms\1. Recursion\T04_GenCombWithoutRep\bin\Debug\T04_GenCombWithoutRep.exe.config
+D:\SoftUni\Algorithms\Homework\Alghoritms\1. Recursion\T04_GenCombWithoutRep\bin\Debug\T04_GenCombWithoutRep.exe
+D:\SoftUni\Algorithms\Homework\Alghoritms\1. Recursion\T04_GenCombWithoutRep\bin\Debug\T04_GenCombWithoutRep.pdb
+D:\SoftUni\Algorithms\Homework\Alghoritms\1. Recursion\T04_GenCombWithoutRep\obj\Debug\T04_GenCombWithoutRep.exe
+D:\SoftUni\Algorithms\Homework\Alghoritms\1. Recursion\T04_GenCombWithoutRep\obj\Debug\T04_GenCombWithoutRep.pdb
