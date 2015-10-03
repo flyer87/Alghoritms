@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T01_GenPermutRecurs", "T01_GenPermutRecurs\T01_GenPermutRecurs.csproj", "{90D77155-9B5E-4420-B621-43CD9BDEF880}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T02_GenPermutIterat", "GenPermutIterat\T02_GenPermutIterat.csproj", "{17B9C4FA-0C5F-4D9C-B212-CD0BC0DB96BA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T02_GenPermutIterat", "T02_GenPermutIterat\T02_GenPermutIterat.csproj", "{17B9C4FA-0C5F-4D9C-B212-CD0BC0DB96BA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T03_GenCombIterat", "T03_GenCombIterat\T03_GenCombIterat.csproj", "{67C2B341-EA22-4D65-8901-1CCC9EA27ECD}"
 EndProject

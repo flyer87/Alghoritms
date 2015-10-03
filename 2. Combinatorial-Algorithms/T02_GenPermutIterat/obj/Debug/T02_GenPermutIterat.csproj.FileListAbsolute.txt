@@ -4,3 +4,5 @@ D:\SoftUni\Algorithms\Homework\Alghoritms\2. Combinatorial-Algorithms\GenPermutI
 D:\SoftUni\Algorithms\Homework\Alghoritms\2. Combinatorial-Algorithms\GenPermutIterat\bin\Debug\GenPermutIterat.pdb
 D:\SoftUni\Algorithms\Homework\Alghoritms\2. Combinatorial-Algorithms\GenPermutIterat\obj\Debug\GenPermutIterat.exe
 D:\SoftUni\Algorithms\Homework\Alghoritms\2. Combinatorial-Algorithms\GenPermutIterat\obj\Debug\GenPermutIterat.pdb
+D:\SoftUni\Algorithms\Homework\Alghoritms\2. Combinatorial-Algorithms\GenPermutIterat\bin\Debug\T02_GenPermutIterat.exe.config
+D:\SoftUni\Algorithms\Homework\Alghoritms\2. Combinatorial-Algorithms\T02_GenPermutIterat\bin\Debug\T02_GenPermutIterat.exe.config
