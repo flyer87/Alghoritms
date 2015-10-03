@@ -1,0 +1,6 @@
+D:\SoftUni\Algorithms\Homework\Alghoritms\2. Combinatorial-Algorithms\GenPermutIterat\bin\Debug\GenPermutIterat.exe.config
+D:\SoftUni\Algorithms\Homework\Alghoritms\2. Combinatorial-Algorithms\GenPermutIterat\obj\Debug\T02_GenPermutIterat.csprojResolveAssemblyReference.cache
+D:\SoftUni\Algorithms\Homework\Alghoritms\2. Combinatorial-Algorithms\GenPermutIterat\bin\Debug\GenPermutIterat.exe
+D:\SoftUni\Algorithms\Homework\Alghoritms\2. Combinatorial-Algorithms\GenPermutIterat\bin\Debug\GenPermutIterat.pdb
+D:\SoftUni\Algorithms\Homework\Alghoritms\2. Combinatorial-Algorithms\GenPermutIterat\obj\Debug\GenPermutIterat.exe
+D:\SoftUni\Algorithms\Homework\Alghoritms\2. Combinatorial-Algorithms\GenPermutIterat\obj\Debug\GenPermutIterat.pdb

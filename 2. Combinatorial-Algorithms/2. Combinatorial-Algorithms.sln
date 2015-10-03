@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T01_GenPermutRecurs", "T01_GenPermutRecurs\T01_GenPermutRecurs.csproj", "{90D77155-9B5E-4420-B621-43CD9BDEF880}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T02_GenPermutIterat", "GenPermutIterat\T02_GenPermutIterat.csproj", "{17B9C4FA-0C5F-4D9C-B212-CD0BC0DB96BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T03_GenCombIterat", "T03_GenCombIterat\T03_GenCombIterat.csproj", "{67C2B341-EA22-4D65-8901-1CCC9EA27ECD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T04_SubsetsOfStringArray", "T04_SubsetsOfStringArray\T04_SubsetsOfStringArray.csproj", "{C67F9CAE-C2C7-4479-92D9-CA7BA6AB44D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90D77155-9B5E-4420-B621-43CD9BDEF880}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90D77155-9B5E-4420-B621-43CD9BDEF880}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90D77155-9B5E-4420-B621-43CD9BDEF880}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90D77155-9B5E-4420-B621-43CD9BDEF880}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17B9C4FA-0C5F-4D9C-B212-CD0BC0DB96BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17B9C4FA-0C5F-4D9C-B212-CD0BC0DB96BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17B9C4FA-0C5F-4D9C-B212-CD0BC0DB96BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17B9C4FA-0C5F-4D9C-B212-CD0BC0DB96BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67C2B341-EA22-4D65-8901-1CCC9EA27ECD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67C2B341-EA22-4D65-8901-1CCC9EA27ECD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67C2B341-EA22-4D65-8901-1CCC9EA27ECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67C2B341-EA22-4D65-8901-1CCC9EA27ECD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C67F9CAE-C2C7-4479-92D9-CA7BA6AB44D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C67F9CAE-C2C7-4479-92D9-CA7BA6AB44D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C67F9CAE-C2C7-4479-92D9-CA7BA6AB44D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C67F9CAE-C2C7-4479-92D9-CA7BA6AB44D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

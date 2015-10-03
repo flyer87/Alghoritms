@@ -1,0 +1,6 @@
+D:\SoftUni\Algorithms\Homework\Alghoritms\2. Combinatorial-Algorithms\T01_GenPermutRecurs\bin\Debug\T01_GenPermutRecurs.exe.config
+D:\SoftUni\Algorithms\Homework\Alghoritms\2. Combinatorial-Algorithms\T01_GenPermutRecurs\bin\Debug\T01_GenPermutRecurs.exe
+D:\SoftUni\Algorithms\Homework\Alghoritms\2. Combinatorial-Algorithms\T01_GenPermutRecurs\bin\Debug\T01_GenPermutRecurs.pdb
+D:\SoftUni\Algorithms\Homework\Alghoritms\2. Combinatorial-Algorithms\T01_GenPermutRecurs\obj\Debug\T01_GenPermutRecurs.csprojResolveAssemblyReference.cache
+D:\SoftUni\Algorithms\Homework\Alghoritms\2. Combinatorial-Algorithms\T01_GenPermutRecurs\obj\Debug\T01_GenPermutRecurs.exe
+D:\SoftUni\Algorithms\Homework\Alghoritms\2. Combinatorial-Algorithms\T01_GenPermutRecurs\obj\Debug\T01_GenPermutRecurs.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\Algorithms\Homework\Alghoritms\2. Combinatorial-Algorithms\T04_SubsetsOfStringArray\bin\Debug\T04_SubsetsOfStringArray.exe.config
+D:\SoftUni\Algorithms\Homework\Alghoritms\2. Combinatorial-Algorithms\T04_SubsetsOfStringArray\bin\Debug\T04_SubsetsOfStringArray.exe
+D:\SoftUni\Algorithms\Homework\Alghoritms\2. Combinatorial-Algorithms\T04_SubsetsOfStringArray\bin\Debug\T04_SubsetsOfStringArray.pdb
+D:\SoftUni\Algorithms\Homework\Alghoritms\2. Combinatorial-Algorithms\T04_SubsetsOfStringArray\obj\Debug\T04_SubsetsOfStringArray.csprojResolveAssemblyReference.cache
+D:\SoftUni\Algorithms\Homework\Alghoritms\2. Combinatorial-Algorithms\T04_SubsetsOfStringArray\obj\Debug\T04_SubsetsOfStringArray.exe
+D:\SoftUni\Algorithms\Homework\Alghoritms\2. Combinatorial-Algorithms\T04_SubsetsOfStringArray\obj\Debug\T04_SubsetsOfStringArray.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\Algorithms\Homework\Alghoritms\2. Combinatorial-Algorithms\T03_GenCombIterat\bin\Debug\T03_GenCombIterat.exe.config
+D:\SoftUni\Algorithms\Homework\Alghoritms\2. Combinatorial-Algorithms\T03_GenCombIterat\bin\Debug\T03_GenCombIterat.exe
+D:\SoftUni\Algorithms\Homework\Alghoritms\2. Combinatorial-Algorithms\T03_GenCombIterat\bin\Debug\T03_GenCombIterat.pdb
+D:\SoftUni\Algorithms\Homework\Alghoritms\2. Combinatorial-Algorithms\T03_GenCombIterat\obj\Debug\T03_GenCombIterat.csprojResolveAssemblyReference.cache
+D:\SoftUni\Algorithms\Homework\Alghoritms\2. Combinatorial-Algorithms\T03_GenCombIterat\obj\Debug\T03_GenCombIterat.exe
+D:\SoftUni\Algorithms\Homework\Alghoritms\2. Combinatorial-Algorithms\T03_GenCombIterat\obj\Debug\T03_GenCombIterat.pdb
