@@ -1,0 +1,6 @@
+D:\SoftUni\Algorithms\Homework\Alghoritms\4. Dynamic-Programming\T02_LongestZigZagSubSeq\bin\Debug\T02_LongestZigZagSubSeq.exe.config
+D:\SoftUni\Algorithms\Homework\Alghoritms\4. Dynamic-Programming\T02_LongestZigZagSubSeq\bin\Debug\T02_LongestZigZagSubSeq.exe
+D:\SoftUni\Algorithms\Homework\Alghoritms\4. Dynamic-Programming\T02_LongestZigZagSubSeq\bin\Debug\T02_LongestZigZagSubSeq.pdb
+D:\SoftUni\Algorithms\Homework\Alghoritms\4. Dynamic-Programming\T02_LongestZigZagSubSeq\obj\Debug\T02_LongestZigZagSubSeq.exe
+D:\SoftUni\Algorithms\Homework\Alghoritms\4. Dynamic-Programming\T02_LongestZigZagSubSeq\obj\Debug\T02_LongestZigZagSubSeq.pdb
+D:\SoftUni\Algorithms\Homework\Alghoritms\4. Dynamic-Programming\T02_LongestZigZagSubSeq\obj\Debug\T02_LongestZigZagSubSeq.csprojResolveAssemblyReference.cache
