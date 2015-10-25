@@ -1,0 +1,6 @@
+D:\SoftUni\Algorithms\Homework\Alghoritms\5. Graphs-and-Graph-Algorithms\T02_AreasInMatrix\bin\Debug\T02_AreasInMatrix.exe.config
+D:\SoftUni\Algorithms\Homework\Alghoritms\5. Graphs-and-Graph-Algorithms\T02_AreasInMatrix\bin\Debug\T02_AreasInMatrix.exe
+D:\SoftUni\Algorithms\Homework\Alghoritms\5. Graphs-and-Graph-Algorithms\T02_AreasInMatrix\bin\Debug\T02_AreasInMatrix.pdb
+D:\SoftUni\Algorithms\Homework\Alghoritms\5. Graphs-and-Graph-Algorithms\T02_AreasInMatrix\obj\Debug\T02_AreasInMatrix.exe
+D:\SoftUni\Algorithms\Homework\Alghoritms\5. Graphs-and-Graph-Algorithms\T02_AreasInMatrix\obj\Debug\T02_AreasInMatrix.pdb
+D:\SoftUni\Algorithms\Homework\Alghoritms\5. Graphs-and-Graph-Algorithms\T02_AreasInMatrix\obj\Debug\T02_AreasInMatrix.csprojResolveAssemblyReference.cache
