@@ -1,0 +1,5 @@
+D:\SoftUni\Algorithms\Homework\Alghoritms\6. Advanced-Graph-Algorithms\T01_ExtendCableNetwork\bin\Debug\T01_ExtendCableNetwork.exe.config
+D:\SoftUni\Algorithms\Homework\Alghoritms\6. Advanced-Graph-Algorithms\T01_ExtendCableNetwork\bin\Debug\T01_ExtendCableNetwork.exe
+D:\SoftUni\Algorithms\Homework\Alghoritms\6. Advanced-Graph-Algorithms\T01_ExtendCableNetwork\bin\Debug\T01_ExtendCableNetwork.pdb
+D:\SoftUni\Algorithms\Homework\Alghoritms\6. Advanced-Graph-Algorithms\T01_ExtendCableNetwork\obj\Debug\T01_ExtendCableNetwork.exe
+D:\SoftUni\Algorithms\Homework\Alghoritms\6. Advanced-Graph-Algorithms\T01_ExtendCableNetwork\obj\Debug\T01_ExtendCableNetwork.pdb
