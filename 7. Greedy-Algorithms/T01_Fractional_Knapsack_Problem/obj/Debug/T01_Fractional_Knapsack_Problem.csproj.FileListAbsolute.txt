@@ -5,3 +5,4 @@ D:\SoftUni\Algorithms\Homework\Alghoritms\7. Greedy-Algorithms\T01_Fractional_Kn
 D:\SoftUni\Algorithms\Homework\Alghoritms\7. Greedy-Algorithms\T01_Fractional_Knapsack_Problem\obj\Debug\T01_Fractional_Knapsack_Problem.pdb
 D:\SoftUni\Algorithms\Homework\Alghoritms\7. Greedy-Algorithms\T01_Fractional_Knapsack_Problem\bin\Debug\ClassLibrary2.dll
 D:\SoftUni\Algorithms\Homework\Alghoritms\7. Greedy-Algorithms\T01_Fractional_Knapsack_Problem\bin\Debug\ClassLibrary2.xml
+D:\SoftUni\Algorithms\Homework\Alghoritms\7. Greedy-Algorithms\T01_Fractional_Knapsack_Problem\obj\Debug\T01_Fractional_Knapsack_Problem.csprojResolveAssemblyReference.cache
